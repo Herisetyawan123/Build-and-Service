@@ -1,0 +1,11 @@
+.btn:hover > .arrow{
+    margin-right: 10px;
+
+}
+
+.border-custom{
+        border: 2px solid #50BAB2;
+        border-radius: 72px 24px 24px 24px; 
+        width: 463px;
+        height: 403px;  
+}
