@@ -33,7 +33,7 @@ export default function Hero()
                     <div className="flex-1 hidden sm:flex justify-end relative" data-aos="fade-left">
                         <div className="border-2 border-light-blue-500 border-custom absolute" style={{ top: 30 }}>
                         </div>
-                            <img  src={ImageHero} className="absolute" style={{ right: 30 }} width="463" height="403"></img>
+                            <img  src={ImageHero} className="absolute" style={{ right: 30 }} width="463" height="403" alt="Hero"></img>
                     </div>
                 </div>
             </section>
