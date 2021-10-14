@@ -5,7 +5,7 @@ import IconWebsite from "../../assets/icon/gg_website.png";
 export default function Skill() {
     return (
         <>
-            <section data-aos="fade-up" id="skill" className="container mx-auto w-2/3 mt-36 p-5 my-10 rounded-xl">
+            <section data-aos="fade-up" id="skill" className="container mx-auto w-2/3 mt-22 md:mt-32 p-5 my-10 rounded-xl">
                 <div class="grid md:grid-cols-3 gap-8 justify-items-center">
                     <div className="flex flex-col text-center justify-center">
                         <div className="bg-primary-lights rounded-full mb-5">

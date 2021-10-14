@@ -21,7 +21,7 @@ export default function Hero()
                         <p className="mb-16 md:mb-28 mt-5 md:mt-10 text-sm" data-aos="fade-right">in this pandemic era, the use of technology is growing rapidly. our work depends on technology that we use everyday. web development is one of the needs for workers and corporate. so we’re here to help you to build your own website.</p>
                         <div className="flex flex-col sm:flex-row">
                             <a href="/" data-aos="fade-up" className="flex bg-primary py-3 px-6 transition duration-300 rounded justify-between mb-3 sm:mr-3 btn hover:bg-primary-light" style={{ color: 'white', width: 200 }}>
-                                <span className="font-bold">Contact Us</span>
+                                <span className="font-bold">Hire Us</span>
                                 <img src={ArrowIcon} className="arrow transition duration-300" width="24" height="24" alt="arrow"></img>
                             </a>
                             <a href="/" data-aos="fade-up" className="flex bg-primary-lights py-3 px-6 transition duration-300 rounded mb-3 btn hover:bg-primary-lightss" style={{ color: 'white', width: 200 }}>
